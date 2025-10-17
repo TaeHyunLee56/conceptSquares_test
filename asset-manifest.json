@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/conceptSquares_test/static/css/main.f6cae1ba.css",
+    "main.js": "/conceptSquares_test/static/js/main.22872b07.js",
+    "static/js/453.e16bd9f3.chunk.js": "/conceptSquares_test/static/js/453.e16bd9f3.chunk.js",
+    "index.html": "/conceptSquares_test/index.html",
+    "main.f6cae1ba.css.map": "/conceptSquares_test/static/css/main.f6cae1ba.css.map",
+    "main.22872b07.js.map": "/conceptSquares_test/static/js/main.22872b07.js.map",
+    "453.e16bd9f3.chunk.js.map": "/conceptSquares_test/static/js/453.e16bd9f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6cae1ba.css",
+    "static/js/main.22872b07.js"
+  ]
+}
